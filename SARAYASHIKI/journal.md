@@ -11,3 +11,4 @@
 
 ### Добавили:
 - Новый HUD-бар!
+![](https://github.com/AcidKoujou/university-practice-2025/blob/main/images/glav_ob.png)
