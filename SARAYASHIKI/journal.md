@@ -6,7 +6,9 @@
 ### Исправили:
 - Баги, из-за которых игрок может вылететь из арены
 - Полировка вражеского ИИ
-
+- Добавление оружия
+![](https://github.com/AcidKoujou/university-practice-2025/blob/main/images/1.png)
 
 ### Добавили:
 - Новый HUD-бар!
+![](https://github.com/AcidKoujou/university-practice-2025/blob/main/images/glav_ob.png)
